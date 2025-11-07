@@ -13,6 +13,7 @@ setup(
     # List the required external libraries
     install_requires=[
         'requests',
+        'flask',
     ],
     
     description='A package for detecting emotions in text using a network service.',
